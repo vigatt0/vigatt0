@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @vigatt0
-- 👀 I’m interested in become a programmer.
-- 🌱 I’m currently learning html,from the beggining.
 - 💞️ I’m looking to collaborate on all possibles areas.
 - 📫 How to reach me xefi.1337@hotmail.com
 
