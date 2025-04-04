@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @vigatt0
-- 💞️ I’m looking to collaborate on Front-end development areas.
+- 💞️ I’m looking to collaborate on FullStack development areas.
 - 📫 How to reach me xefi.1337@hotmail.com
 
 <!---
