@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @vigatt0
--  I’m looking to collaborate on FullStack development areas.
 - 📫 How to reach me lucasbueno.war@gmail.com
 
 <!---
